@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+<title>contrib/demos/lsst_dm_stack_demo.git - DM stack demos for end users
+</title>
+<meta name='generator' content='cgit v0.9.0.2-39-g756e'/>
+<meta name='robots' content='index, nofollow'/>
+<link rel='stylesheet' type='text/css' href='/cgit.static/cgit.css'/>
+<link rel='alternate' title='Atom feed' href='http://dev.lsstcorp.org/cgit/contrib/demos/lsst_dm_stack_demo.git/atom/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits?h=master' type='application/atom+xml'/>
+</head>
+<body>
+<div id='cgit'><table id='header'>
+<tr>
+<td class='logo' rowspan='2'><a href='/cgit/'><img src='/cgit.static/cgit.png' alt='cgit logo'/></a></td>
+<td class='main'><a href='/cgit/'>index</a> : <a title='contrib/demos/lsst_dm_stack_demo.git' href='/cgit/contrib/demos/lsst_dm_stack_demo.git/'>contrib/demos/lsst_dm_stack_demo.git</a></td><td class='form'><form method='get' action=''>
+<select name='h' onchange='this.form.submit();'>
+<option value='Winter2012'>Winter2012</option>
+<option value='master' selected='selected'>master</option>
+<option value='tickets/1989'>tickets/1989</option>
+</select> <input type='submit' name='' value='switch'/></form></td></tr>
+<tr><td class='sub'>DM stack demos for end users
+</td><td class='sub right'></td></tr></table>
+<table class='tabs'><tr><td>
+<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/'>summary</a><a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/refs/'>refs</a><a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/log/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>log</a><a class='active' href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>tree</a><a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/commit/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>commit</a><a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/diff/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>diff</a><a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/stats/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>stats</a></td><td class='form'><form class='right' method='get' action='/cgit/contrib/demos/lsst_dm_stack_demo.git/log/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>
+<select name='qt'>
+<option value='grep'>log msg</option>
+<option value='author'>author</option>
+<option value='committer'>committer</option>
+<option value='range'>range</option>
+</select>
+<input class='txt' type='text' size='10' name='q' value=''/>
+<input type='submit' value='search'/>
+</form>
+</td></tr></table>
+<div class='path'>path: <a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/'>root</a>/<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input'>input</a>/<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input/bias'>bias</a>/<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input/bias/v0'>v0</a>/<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input/bias/v0/R23'>R23</a>/<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input/bias/v0/R23/S11'>S11</a>/<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/tree/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>imsim_0_R23_S11_C14.fits</a></div><div class='content'>blob: feeca86656c51284b726058998d998206aa1f296 (<a href='/cgit/contrib/demos/lsst_dm_stack_demo.git/plain/input/bias/v0/R23/S11/imsim_0_R23_S11_C14.fits'>plain</a>)
+<div class='error'>blob size (9953KB) exceeds display size limit (100KB).</div></div> <!-- class=content -->
+<div class='footer'>generated  by cgit v0.9.0.2-39-g756e at 2012-07-17 12:13:29 (GMT)</div>
+</div> <!-- id=cgit -->
+</body>
+</html>
