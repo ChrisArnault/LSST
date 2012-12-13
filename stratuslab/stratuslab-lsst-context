@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+# --- Define variables -------------------------------------------------
+
+echo "======================================================================"
+echo ":: running stratus-lsst-context on $(date)"
+
+# --- Check variables --------------------------------------------------
+
+# --- Configure environment --------------------------------------------
+
+rm -f /lib/udev/rules.d/*net-gen*
+rm -f /etc/udev/rules.d/*net.rules
+
+mkdir /opt/lsst
+mount /dev/sdc /opt/lsst
+
+exit 0

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:slterms="http://mp.stratuslab.eu/slterms#"
+    xmlns:slreq="http://mp.stratuslab.eu/slreq#"
+    xml:base="http://mp.stratuslab.eu/">
+
+    <rdf:Description rdf:about="#I0LUGjx0HtEhimGgJXxrcfz9Y9J">
+
+        <dcterms:identifier>I0LUGjx0HtEhimGgJXxrcfz9Y9J</dcterms:identifier>
+
+        <slreq:bytes>5368709120</slreq:bytes>
+
+        <slreq:checksum rdf:parseType="Resource">
+            <slreq:algorithm>MD5</slreq:algorithm>
+            <slreq:value>0e7620c0cf217e5084a4dbd6ef031b8d</slreq:value>
+        </slreq:checksum>
+        <slreq:checksum rdf:parseType="Resource">
+            <slreq:algorithm>SHA-1</slreq:algorithm>
+            <slreq:value>8d0b5068f1d07b448629868095f1adc7f3f58f49</slreq:value>
+        </slreq:checksum>
+        <slreq:checksum rdf:parseType="Resource">
+            <slreq:algorithm>SHA-256</slreq:algorithm>
+            <slreq:value>9e4197a0d5de54e292e694934725e7630cf9ab5fe87e2a46ddb1f618da258175</slreq:value>
+        </slreq:checksum>
+        <slreq:checksum rdf:parseType="Resource">
+            <slreq:algorithm>SHA-512</slreq:algorithm>
+            <slreq:value>7e1f079977d82b0473f0b5b76a4179c81a396abf2b09b4f6f941e2622746f14c8c8bdb62f825eeccde84c32076f4aa3a2d1770064f9a1bf8472d9e6fbcd8000a</slreq:value>
+        </slreq:checksum>
+
+        <slreq:endorsement rdf:parseType="Resource"/>
+
+        <dcterms:type>base</dcterms:type>
+        <slterms:kind>machine</slterms:kind>
+
+        <slterms:os>CentOS</slterms:os>
+        <slterms:os-version>6.2</slterms:os-version>
+        <slterms:os-arch>x86_64</slterms:os-arch>
+        <slterms:version>2.0</slterms:version>
+        <dcterms:compression>gz</dcterms:compression>
+        <slterms:location>pdisk:onehost-7.lal.in2p3.fr:8445:d2354c12-92fe-4d25-947a-9a8beb22167b</slterms:location>
+
+        <dcterms:format>raw</dcterms:format>
+
+        <dcterms:creator>Christian Arnault</dcterms:creator>
+
+        <dcterms:created>2012-12-12T10:47:19Z</dcterms:created>
+        <dcterms:valid>2013-06-12T10:47:19Z</dcterms:valid>
+
+        <dcterms:title></dcterms:title>
+        <dcterms:description>LSST running Stack Summer2012
+The 'user' account is configured with loadLSST.sh
+</dcterms:description>
+
+        <slterms:hypervisor>kvm</slterms:hypervisor>
+        <slterms:disks-bus>ide</slterms:disks-bus>
+
+        <dcterms:publisher>StratusLab</dcterms:publisher>
+        
+
+    </rdf:Description>
+</rdf:RDF>
